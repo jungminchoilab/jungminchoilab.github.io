@@ -1,0 +1,19 @@
+{
+  "name": "cxcr4",
+  "shortLabel": "cxcr4",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Cluster",
+  "labelField": "Cluster",
+  "enumFields": [
+    "Cluster"
+  ],
+  "coords": [
+    {
+      "file": "/Users/jungminchoi/Google Drive/pereira/scrnaseq/10x/cxcr4/jc/sctransform/cellbrowser_out/jungminchoilab.github.io/umap.coords.tsv",
+      "shortLabel": "Seurat umap"
+    }
+  ],
+  "inDir": ""
+}
