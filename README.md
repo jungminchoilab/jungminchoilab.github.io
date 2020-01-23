@@ -1,9 +1,9 @@
-#Choi lab single-cell RNA-sequencing dataset cell browser!
+# Choi lab single-cell RNA-sequencing dataset cell browser!
 
-##Breast cancer
+## Breast cancer
 
-[Chung et al. Nature Comm. 2017] (http://jungminchoilab.github.io/bc)
+[Chung et al. Nature Comm. 2017 "click"](http://jungminchoilab.github.io/bc)
 
-[Karaayvaz et al. Nature Comm. 2018] (http://jungminchoilab.github.io/tnbc)
+[Karaayvaz et al. Nature Comm. 2018 "click"](http://jungminchoilab.github.io/tnbc)
 
-[Kim et al. Cell 2018] (http://jungminchoilab.github.io/tnbc2)
+[Kim et al. Cell 2018 "click"](http://jungminchoilab.github.io/tnbc2)
