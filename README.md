@@ -1,6 +1,6 @@
-# Choi lab single-cell RNA-sequencing dataset cell browser!
+# Welcome to Choi lab scRNA-Seq dataset cell browser!
 
-## Breast cancer
+## Breast cancer datasets
 
 [Chung et al. Nature Comm. 2017 "click"](http://jungminchoilab.github.io/bc)
 
