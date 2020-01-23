@@ -1,0 +1,175 @@
+{
+  "fileVersions": {
+    "inMeta": {
+      "fname": "/Users/jungminchoi/Google Drive/pereira/scrnaseq/10x/cxcr4/jc/sctransform/cellbrowser_out/jungminchoilab.github.io/meta.tsv",
+      "md5": "63042dc545",
+      "size": 511092,
+      "mtime": "2020-01-23 03:00:44"
+    },
+    "outMeta": {
+      "fname": "cxcr4/cxcr4/meta.tsv",
+      "md5": "63042dc545",
+      "size": 511092,
+      "mtime": "2020-01-23 13:36:04"
+    },
+    "inMatrix": {
+      "fname": "/Users/jungminchoi/Google Drive/pereira/scrnaseq/10x/cxcr4/jc/sctransform/cellbrowser_out/jungminchoilab.github.io/exprMatrix.tsv.gz",
+      "md5": "927347c49a",
+      "size": 16692709,
+      "mtime": "2020-01-23 03:00:44"
+    },
+    "outMatrix": {
+      "fname": "cxcr4/cxcr4/exprMatrix.tsv.gz",
+      "md5": "927347c49a",
+      "size": 16692709,
+      "mtime": "2020-01-23 13:36:04"
+    },
+    "conf": {
+      "fname": "/Users/jungminchoi/Google Drive/pereira/scrnaseq/10x/cxcr4/jc/sctransform/cellbrowser_out/jungminchoilab.github.io/cellbrowser.conf",
+      "md5": "d58f2745df",
+      "size": 331,
+      "mtime": "2020-01-23 03:00:43"
+    }
+  },
+  "sampleCount": 12365,
+  "matrixWasFiltered": false,
+  "metaFields": [
+    {
+      "name": "Cell",
+      "label": "Cell",
+      "type": "uniqueString",
+      "maxSize": 20,
+      "diffValCount": 12365,
+      "md5": "6bda0bd49d"
+    },
+    {
+      "name": "nCountRNA",
+      "label": "nCount_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 4580,
+      "md5": "ecfccbea17"
+    },
+    {
+      "name": "nFeatureRNA",
+      "label": "nFeature_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 2070,
+      "md5": "5ea7d4ded7"
+    },
+    {
+      "name": "Cluster",
+      "label": "Cluster",
+      "type": "enum",
+      "valCounts": [
+        [
+          "0_CTL-CXCR4",
+          2944
+        ],
+        [
+          "0_KO-CXCR4",
+          2873
+        ],
+        [
+          "1_KO-CXCR4",
+          1031
+        ],
+        [
+          "3_KO-CXCR4",
+          905
+        ],
+        [
+          "2_CTL-CXCR4",
+          783
+        ],
+        [
+          "1_CTL-CXCR4",
+          737
+        ],
+        [
+          "4_KO-CXCR4",
+          611
+        ],
+        [
+          "2_KO-CXCR4",
+          594
+        ],
+        [
+          "4_CTL-CXCR4",
+          460
+        ],
+        [
+          "3_CTL-CXCR4",
+          425
+        ],
+        [
+          "5_KO-CXCR4",
+          361
+        ],
+        [
+          "5_CTL-CXCR4",
+          154
+        ],
+        [
+          "6_KO-CXCR4",
+          128
+        ],
+        [
+          "7_KO-CXCR4",
+          93
+        ],
+        [
+          "8_KO-CXCR4",
+          81
+        ],
+        [
+          "6_CTL-CXCR4",
+          58
+        ],
+        [
+          "9_KO-CXCR4",
+          43
+        ],
+        [
+          "7_CTL-CXCR4",
+          40
+        ],
+        [
+          "9_CTL-CXCR4",
+          32
+        ],
+        [
+          "8_CTL-CXCR4",
+          12
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 20,
+      "md5": "35de340ab4"
+    }
+  ],
+  "matrixArrType": "Uint32",
+  "labelField": "Cluster",
+  "coords": [
+    {
+      "name": "coords_0",
+      "shortLabel": "Seurat umap",
+      "md5": "eff261f24d",
+      "minX": 0,
+      "maxX": 65535,
+      "minY": 0,
+      "maxY": 65535,
+      "type": "Uint16",
+      "labelMd5": "d41d8cd98f"
+    }
+  ],
+  "hasFiles": [
+    "datasetDesc"
+  ],
+  "markers": [],
+  "name": "cxcr4",
+  "shortLabel": "cxcr4",
+  "clusterField": "Cluster",
+  "md5": "1d7e8a7d66"
+}
