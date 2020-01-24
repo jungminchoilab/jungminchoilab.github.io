@@ -1,0 +1,119 @@
+{
+  "fileVersions": {
+    "inMeta": {
+      "fname": "/Users/jungminchoi/Google Drive/jaehun/scrnaseq/GSE81861/cellbrowser_out/meta.tsv",
+      "md5": "e7069d2df5",
+      "size": 27768,
+      "mtime": "2020-01-24 05:49:23"
+    },
+    "outMeta": {
+      "fname": "crc/crc/meta.tsv",
+      "md5": "e7069d2df5",
+      "size": 27768,
+      "mtime": "2020-01-24 05:50:28"
+    },
+    "inMatrix": {
+      "fname": "/Users/jungminchoi/Google Drive/jaehun/scrnaseq/GSE81861/cellbrowser_out/exprMatrix.tsv.gz",
+      "md5": "da7fa3981a",
+      "size": 12657029,
+      "mtime": "2020-01-24 05:49:23"
+    },
+    "outMatrix": {
+      "fname": "crc/crc/exprMatrix.tsv.gz",
+      "md5": "da7fa3981a",
+      "size": 12657029,
+      "mtime": "2020-01-24 05:50:28"
+    },
+    "conf": {
+      "fname": "/Users/jungminchoi/Google Drive/jaehun/scrnaseq/GSE81861/cellbrowser_out/cellbrowser.conf",
+      "md5": "ea4c689af2",
+      "size": 327,
+      "mtime": "2020-01-24 05:49:23"
+    }
+  },
+  "sampleCount": 506,
+  "matrixWasFiltered": false,
+  "metaFields": [
+    {
+      "name": "Cell",
+      "label": "Cell",
+      "type": "uniqueString",
+      "maxSize": 32,
+      "diffValCount": 506,
+      "md5": "dd9c3da429"
+    },
+    {
+      "name": "nCountRNA",
+      "label": "nCount_RNA",
+      "arrType": "float32",
+      "type": "float",
+      "diffValCount": 506,
+      "md5": "dd07fdb4a0"
+    },
+    {
+      "name": "nFeatureRNA",
+      "label": "nFeature_RNA",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 483,
+      "md5": "f3c4f961db"
+    },
+    {
+      "name": "Cluster",
+      "label": "Cluster",
+      "type": "enum",
+      "valCounts": [
+        [
+          "0",
+          204
+        ],
+        [
+          "1",
+          189
+        ],
+        [
+          "2",
+          40
+        ],
+        [
+          "3",
+          26
+        ],
+        [
+          "4",
+          24
+        ],
+        [
+          "5",
+          23
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 6,
+      "md5": "13f6c74bc2"
+    }
+  ],
+  "matrixArrType": "Float32",
+  "labelField": "Cluster",
+  "coords": [
+    {
+      "name": "coords_0",
+      "shortLabel": "Seurat umap",
+      "md5": "e6cd404da3",
+      "minX": 0,
+      "maxX": 65535,
+      "minY": 0,
+      "maxY": 65535,
+      "type": "Uint16",
+      "labelMd5": "d41d8cd98f"
+    }
+  ],
+  "hasFiles": [
+    "datasetDesc"
+  ],
+  "markers": [],
+  "name": "crc",
+  "shortLabel": "crc",
+  "clusterField": "Cluster",
+  "md5": "42919dd02d"
+}
